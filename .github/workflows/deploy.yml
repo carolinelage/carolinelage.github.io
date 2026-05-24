@@ -3,8 +3,9 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: ["main"]
+  workflow_dispatch:
 
-# Permissões necessárias para publicar no GitHub Pages
+# Permissões necessárias para o GitHub Actions publicar no Pages
 permissions:
   contents: read
   pages: write
