@@ -23,7 +23,7 @@ export default function ExperienceSection() {
       </motion.div>
 
       <div className="relative border-l border-folk-taupe/40 ml-4 md:ml-6 space-y-16">
-        {experiences.map((exp, index) => (
+        {experiences.map((exp) => (
           <motion.div 
             key={exp.id}
             initial={{ opacity: 0, y: 40, filter: "blur(4px)" }}
