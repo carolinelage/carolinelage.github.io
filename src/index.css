@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=Playfair+Display:ital,wght@0,600;0,700;1,400&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-folk-brown: #6e4e37;     
+  --color-folk-taupe: #a38f7d;
+  --color-folk-sand: #e6e1da;
+  --color-folk-cream: #f7f5f2;
+  --color-folk-forest: #3d4138;
+  
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-sans: 'Poppins', system-ui, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-size: 14.5px;
+}
+
+body {
+  background-color: var(--color-folk-cream);
+  color: var(--color-folk-forest);
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-folk-cream);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-folk-taupe);
+  border-radius: 10px;
+  border: 2px solid var(--color-folk-cream);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-folk-brown);
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-folk-taupe) var(--color-folk-cream);
+}

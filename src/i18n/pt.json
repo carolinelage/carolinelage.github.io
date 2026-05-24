@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "journey": "Jornada"
+  },
+  "hero": {
+    "tagline": "\"escrevo histórias, compilo código, construo interfaces\"",
+    "title_normal": "Desenvolvedora FullStack &",
+    "title_italic": "Web Designer e Designer Gráfica",
+    "description": "Atuo na intersecção entre a engenharia de sistemas complexos e o design estratégico de produtos. Uno a robustez arquitetural do ecossistema C#/.NET à precisão visual do Design Gráfico e prototipagem no Figma, materializando soluções completas por meio de interfaces fluidas em Vue e React. Desenvolvo software com rigor técnico e atenção meticulosa aos detalhes, tratando cada linha de código e pixel como parte de uma narrativa lógica, eficiente e escalável.",
+    "btn_journey": "Minha Experiência",
+    "btn_about": "Sobre mim"
+  },
+  "about_section": {
+    "subtitle": "Por Trás da Criação",
+    "title": "Sobre Mim & Minha Filosofia",
+    "paragraph_1": "Desenvolvedora Software Engineer com mais de 4 anos de experiência com sólido conhecimento no ecossistema .NET (Core/Framework) e vivência em sistemas SaaS Multi-tenant de alta disponibilidade. Atualmente, atuo na modernização e manutenção de arquiteturas escaláveis na AWS, utilizando Docker para containerização e soluções de mensageria como AWS SQS para processamento assíncrono e desacoplamento de sistemas.",
+    "paragraph_2": "Minha trajetória envolve desde a sustentação de ERPs robustos na TOTVS até a implementação de APIs modernas integradas a bancos NoSQL (MongoDB) e relacionais, aplicação de testes unitários e padrões de design para garantir código limpo e resiliente. Além do código, gosto do olhar de Design UX, buscando sempre o equilíbrio entre performance técnica e a experiência do usuário.",
+    "cv_button": "Baixar Currículo",
+    "skills": {
+      "backend": "BACKEND (C# / .NET)",
+      "design": "DESIGN GRÁFICO E UX DESIGN",
+      "frontend": "FRONTEND (ANGULAR / REACT / VUE)"
+    }
+  },
+  "footer": {
+    "title_normal": "Vamos",
+    "title_italic": "conversar?",
+    "description": "Seja para criar um projeto incrível ou apenas para conversar sobre técnologia, fique à vontade para me mandar uma mensagem.",
+    "location": "Minas Gerais, Brasil",
+    "socials": "Redes Sociais",
+    "developed_by": "Desenvolvido por",
+    "back_to_top": "Voltar ao topo"
+  },
+  "experience_section": {
+    "subtitle": "Capítulos da Minha História",
+    "title": "Minha Jornada Profissional"
+  },
+  "experiences": {
+    "job1": {
+      "role": "Criadora de Conteúdo Tech & Escritora",
+      "company": "The Developer’s Version (Substack & Medium)",
+      "period": "2026 - Presente",
+      "description": "Escrita de artigos técnicos explorando a intersecção entre inteligência artificial e trabalho humano. Análises críticas sobre os impactos de ferramentas como GitHub Copilot e Claude na engenharia de software e propriedade intelectual (INPI)."
+    },
+    "job2": {
+      "role": "Designer e Web Designer",
+      "company": "Caroline Lage Dsgn Studio",
+      "period": "2023 - Presente",
+      "description": "Liderança criativa, técnica e desenvolvimento da identidade visual de marcas. Desenvolvimento de soluções personalizadas de e-commerce, incluindo plugins sob medida para WooCommerce em WordPress para gestão inteligente de insumos e estoque."
+    },
+    "job3": {
+      "role": "Engenheira de Software",
+      "company": "Symplicity Brasil",
+      "period": "Set 2025 - Presente",
+      "description": "Atuação em Full-Stack Development, com ênfase na modernização de sistemas, integração de plataformas e qualidade técnica.\n\n• Desenvolvimento de Módulo Crítico: Participação no desenvolvimento de um Módulo de Estágio utilizando stack moderno e legado: C#, SQL Server, WebForms, AngularJS e padrão MVC.\n• Integração de Sistemas (APIs e WebServices): Responsável por estabelecer a comunicação entre o sistema principal da empresa e plataformas de clientes através da criação e consumo de APIs e WebServices robustos.\n• Inovação Tecnológica: Introdução e implementação de novas tecnologias na arquitetura, incluindo a adoção do framework Angular e de bancos de dados NoSQL (MongoDB), visando performance e escalabilidade.\n• Qualidade de Código: Fomento e aplicação da cultura de qualidade por meio do desenvolvimento de Testes Unitários."
+    },
+    "job4": {
+      "role": "Desenvolvedora de Software FullStack",
+      "company": "TOTVS",
+      "period": "Out 2021 - Set 2025",
+      "description": "Na TOTVS me empenhei em expandir meus conhecimentos em desenvolvimento de software e também em aprimorar minhas soft skills. Sendo aqui meus principais objetivos e responsabilidades:\n\n• Desenvolver novas soluções web e desktop com base no ERP RM.\n• Atuação em projetos de ponta a ponta, desde a especificação, apoio, desenvolvimento, aos testes e entregas ao cliente.\n• Trabalho do dia-a-dia utilizando as principais metodologias ágeis do mercado, como o SCRUM e Kanban.\n• Suporte e sustentação dos projetos em produção (Continuous Integration)."
+    }
+  }
+}

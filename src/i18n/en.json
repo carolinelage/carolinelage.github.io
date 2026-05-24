@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "journey": "Journey"
+  },
+  "hero": {
+    "tagline": "\"write stories, compile code, build interfaces\"",
+    "title_normal": "FullStack Developer &",
+    "title_italic": "Web and Brand Designer",
+    "description": "I work at the intersection of complex systems engineering and strategic product design. I combine the architectural robustness of the C#/.NET ecosystem with the visual precision of Graphic Design and prototyping in Figma, bringing complete solutions to life through fluid interfaces in Vue and React. I develop software with technical rigor and meticulous attention to detail, treating every line of code and pixel as part of a logical, efficient, and scalable narrative.",
+    "btn_journey": "Experience",
+    "btn_about": "About me"
+  },
+  "about_section": {
+    "subtitle": "Behind the Craft",
+    "title": "About Me & My Philosophy",
+    "paragraph_1": "Software Engineer with over 4 years of experience, possessing solid knowledge in the .NET ecosystem (Core/Framework) and experience with high-availability multi-tenant SaaS systems. Currently, I work on the modernization and maintenance of scalable architectures on AWS, using Docker for containerization and messaging solutions like AWS SQS for asynchronous processing and system decoupling.",
+    "paragraph_2": "My background ranges from maintaining robust ERPs at TOTVS to implementing modern APIs integrated with NoSQL (MongoDB) and relational databases, applying unit testing and design patterns to ensure clean and resilient code. Beyond code, I appreciate the UX Design perspective, always seeking a balance between technical performance and user experience.",
+    "cv_button": "Download Resume",
+    "skills": {
+      "backend": "BACKEND (C# / .NET)",
+      "design": "GRAPHIC DESIGN & UX DESIGN",
+      "frontend": "FRONTEND (ANGULAR / REACT / VUE)"
+    }
+  },
+  "footer": {
+    "title_normal": "Let's",
+    "title_italic": "talk?",
+    "description": "Whether you're looking to create an amazing project or just want to chat about technology, feel free to send me a message.",
+    "location": "Minas Gerais, Brazil",
+    "socials": "Social Media",
+    "developed_by": "Developed by",
+    "back_to_top": "Back to top"
+  },
+  "experience_section": {
+    "subtitle": "Chapters of My History",
+    "title": "My Professional Journey"
+  },
+  "experiences": {
+    "job1": {
+      "role": "Tech Content Creator & Writer",
+      "company": "The Developer’s Version (Substack & Medium)",
+      "period": "2026 - Present",
+      "description": "Writing technical articles exploring the intersection between artificial intelligence and human labor. Critical analysis of the impact of tools like GitHub Copilot and Claude on software engineering and intellectual property (INPI)."
+    },
+    "job2": {
+      "role": "Designer & Web Designer",
+      "company": "Caroline Lage Dsgn Studio",
+      "period": "2023 - Present",
+      "description": "Creative and technical leadership, and development of brand visual identities. Development of custom e-commerce solutions, including tailor-made plugins for WooCommerce on WordPress for smart inventory and supply management."
+    },
+    "job3": {
+      "role": "Software Engineer",
+      "company": "Symplicity Brasil",
+      "period": "Sep 2025 - Present",
+      "description": "Working in Full-Stack Development with an emphasis on system modernization, platform integration, and technical quality.\n\n• Critical Module Development: Participated in the development of an Internship Module using both modern and legacy stacks: C#, SQL Server, WebForms, AngularJS, and MVC pattern.\n• Systems Integration (APIs & WebServices): Responsible for establishing communication between the company's core system and client platforms through the creation and consumption of robust APIs and WebServices.\n• Technological Innovation: Introduction and implementation of new technologies in the architecture, including the adoption of the Angular framework and NoSQL databases (MongoDB), aiming at performance and scalability.\n• Code Quality: Fostered and applied a quality culture through the development of Unit Tests."
+    },
+    "job4": {
+      "role": "FullStack Software Developer",
+      "company": "TOTVS",
+      "period": "Oct 2021 - Sep 2025",
+      "description": "At TOTVS, I focused on expanding my software development knowledge as well as improving my soft skills. My main objectives and responsibilities here were:\n\n• Developing new web and desktop solutions based on the RM ERP.\n• Working on end-to-end projects, from specification, support, and development, to testing and delivery to the client.\n• Daily work using the main agile methodologies in the market, such as SCRUM and Kanban.\n• Support and maintenance of projects in production (Continuous Integration)."
+    }
+  }
+}
